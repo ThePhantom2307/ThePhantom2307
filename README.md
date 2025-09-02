@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Panagiotis Trypos
 
-I'm an undergraduate student passionate about building impactful applications and exploring the world of programming. Whether it's crafting robust backend solutions, designing web pages, diving into machine learning, or scripting handy tools, I'm always eager to learn and create.
+I'm an undergraduate student in **Computer Science and Engineering** at the University of Ioannina, passionate about building impactful applications and exploring the world of programming. Whether it's crafting robust backend solutions, designing web pages, diving into machine learning, or scripting handy tools, I'm always eager to learn and create.
 
 ## 🚀 Top Skills
 
