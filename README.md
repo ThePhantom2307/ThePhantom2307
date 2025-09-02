@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ThePhantom2307 (Panagiotis Trypos)
+# 👋 Hi, I'm Panagiotis Trypos
 
 I'm an undergraduate student passionate about building impactful applications and exploring the world of programming. Whether it's crafting robust backend solutions, designing web pages, diving into machine learning, or scripting handy tools, I'm always eager to learn and create.
 
