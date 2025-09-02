@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm ThePhantom2307 (Panagiotis Trypos)
 
-<!--
-**ThePhantom2307/ThePhantom2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student passionate about building impactful applications and exploring the world of programming. Whether it's crafting robust backend solutions, designing web pages, diving into machine learning, or scripting handy tools, I'm always eager to learn and create.
 
-Here are some ideas to get you started:
+## 🚀 Top Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, Java, C, HTML, JavaScript (basic)
+- **Frameworks:** Spring Boot
+- **Databases:** MySQL (design, management, optimization)
+- **Interests:** Building applications & scripts, machine learning, backend development
+
+## 🌟 Favorite Projects
+
+- [mlp-neural-network](https://github.com/ThePhantom2307/mlp-neural-network): A multi-layer perceptron neural network implementation.
+- [traineeship-app](https://github.com/ThePhantom2307/traineeship-app): An app designed to manage and streamline traineeship processes.
+- [ControlPC](https://github.com/ThePhantom2307/ControlPC): Tools and scripts for PC management and automation.
+
+## 🎯 Interests
+
+- **Tech:** Creating practical applications and scripts that make life easier.
+- **Beyond Tech:** 8 Ball Pool enthusiast, passionate about photography.
+
+## 🌐 Connect with Me
+
+- 📸 [Instagram](https://www.instagram.com/panagiotistrypos/)
+- 👤 [Facebook](https://www.facebook.com/PanagiotisTrypos23)
+- 💼 [LinkedIn](https://www.linkedin.com/in/panagiotis-trypos-983abb242)
+- 🖥️ [Personal Website](https://cs.uoi.gr/~cs205131)
+
+---
+
+Feel free to check out my projects or connect with me on any of the platforms above!
